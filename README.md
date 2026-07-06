@@ -46,32 +46,6 @@
 
 ---
 
-## Projects
-
-### 🖼️ [Photo Transfer App](https://github.com/JayJayjj123456789/solution2paths)
-> Real-time web-based file management app for organizing and transferring photos between folder structures with live sync
-
-**Features:**
-- 🗂️ Dual-pane file explorer — side-by-side source & destination view
-- ⚡ Real-time sync — WebSocket live updates between web UI and Windows Explorer
-- 📁 Folder transfer — recursively transfer entire folder trees with progress bar
-- 🖱️ Smart selection — shift-click range select for files and folders
-- 🖼️ Thumbnail preview — auto-generated cached thumbnails
-- 🔄 Conflict resolution — toggle overwrite mode for existing files
-- ⌨️ Keyboard shortcuts — Esc, Delete, F5
-
-**Stack:**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Sharp](https://img.shields.io/badge/Sharp-99CC00?style=flat-square&logoColor=white)
-
----
-
 ## What I'm Into Right Now
 
 - 🤖 Learning how **LLMs work** under the hood — training, fine-tuning, inference
