@@ -46,6 +46,27 @@
 
 ---
 
+## Projects
+
+### 🖼️ Photo Transfer App
+> Real-time dual-pane file manager for organizing and transferring photos between folders
+
+- **Dual-pane explorer** — side-by-side source & destination view
+- **Real-time sync** — WebSocket-based live updates with Windows Explorer
+- **Folder transfer** — transfer entire folder trees recursively with progress tracking
+- **Smart selection** — shift-click range select for both files and folders
+- **Thumbnail preview** — auto-generated cached thumbnails via Sharp
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JayJayjj123456789/solution2paths)
+
+---
+
 ## What I'm Into Right Now
 
 - 🤖 Learning how **LLMs work** under the hood — training, fine-tuning, inference
